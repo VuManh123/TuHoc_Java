@@ -5,13 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ead0589-ff75-47b8-a39a-d630b35a198f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TH_Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT_String/Bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT_String/Bai2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT_String/Bai3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT_String/Bai4_ChuanHoaChuoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_1/BT1_TinhPS_HinhTron.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_1/Bai10_Scanner_NhapLieu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_1/Bai6_EpKieuDuLieu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_1/Bai7_PhepToan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_1/Bai8_ToanTuGan_SoSanh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_1/Bai9_ToanTuLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_2/Bai11_If_Else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_2/Bai12_BT1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_2/Bai12_ToanTu3Ngoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_2/Bai13_SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_2/Bai14_WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_2/Bai15_DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_2/Bai16_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_2/Bai17_Break_Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_2/Bai18_ForLongNhau.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_2/Bai20_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Bai21_Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Bai22_ThuVien_DateTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Bai22_Vidu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Bai23_ThuVien_Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Bai24_Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Bai25_Char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Bai26_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Bai27_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Bai28_ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,33 +64,79 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/TH_Java/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Bai1">
+  <component name="RunManager" selected="Application.Bai27_Array">
     <configuration name="Bai1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai1" />
+      <option name="MAIN_CLASS_NAME" value="BT_String.Bai1" />
       <module name="TH_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BT_String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai2_XuatDuLieu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai2_XuatDuLieu" />
+    <configuration name="Bai2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT_String.Bai2" />
       <module name="TH_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BT_String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai4_KieuDuLieu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai4_KieuDuLieu" />
+    <configuration name="Bai27_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_3.Bai27_Array" />
       <module name="TH_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bai3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT_String.Bai3" />
+      <module name="TH_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BT_String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bai4_ChuanHoaChuoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT_String.Bai4_ChuanHoaChuoi" />
+      <module name="TH_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BT_String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bai27_Array" />
+        <item itemvalue="Application.Bai4_ChuanHoaChuoi" />
+        <item itemvalue="Application.Bai3" />
+        <item itemvalue="Application.Bai2" />
         <item itemvalue="Application.Bai1" />
-        <item itemvalue="Application.Bai4_KieuDuLieu" />
-        <item itemvalue="Application.Bai2_XuatDuLieu" />
       </list>
     </recent_temporary>
   </component>
@@ -92,5 +161,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TH_Java$Bai12_ToanTu3Ngoi.ic" NAME="Bai12_ToanTu3Ngoi Coverage Results" MODIFIED="1695117799398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Lesson_2.*</FILTER>
+    </SUITE>
   </component>
 </project>
